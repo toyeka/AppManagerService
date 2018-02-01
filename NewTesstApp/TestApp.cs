@@ -12,7 +12,7 @@ namespace NewTesstApp
         public void StartPoint()
         {
             Console.WriteLine("YOU ARE Welcome! " + DateTime.Now);
-            throw new Exception();
+//            throw new Exception();
         }
 
         public static void Main() {}
